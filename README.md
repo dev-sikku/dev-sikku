@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-sikku
 - 👀 I’m .Net | JavaScript | Angular Developer
 - 🌱 I’m currently learning latest technology tech
-- 📫 Reach me on (dev.sikku@gmail.com)
+- 📫 Reach me out on (dev.sikku@gmail.com)
 
 <!---
 dev-sikku/dev-sikku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
